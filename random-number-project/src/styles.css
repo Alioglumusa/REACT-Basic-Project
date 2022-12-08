@@ -1,0 +1,81 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+}
+.hero{
+    width: 100%;
+    min-height: 100vh;
+    background: #ececec;
+    color: #ececec;
+    font-weight: bold;
+    display: flex;
+}
+.hero .container{
+    width: 100%;
+    max-width: 400px;
+    margin:auto;
+    padding: 30px;
+    display: flex;
+    flex-direction: column;
+    background-color:#142d4c;
+    border-radius: 30px;
+}
+.hero .container .randomNum{
+    background: #ececec;
+    padding: 20px;
+    min-width: 100%;
+    
+    
+}
+.hero .container .randomNum p span{
+    color: #9fd3c7;
+    font-weight: bold;
+}
+
+span {
+    color: #9fd3c7;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.hero .numContainer{
+    display: flex;
+    justify-content: space-between;
+    padding: 60px 0;
+    min-width: 100%;
+    
+}
+.hero .container div{
+    width: 100%;
+    max-width: 42%;
+}
+.hero .numContainer div input{
+    padding: 8px;
+    border: none;
+    outline: none;
+    width: 100%;
+    background: #385170;
+    color: #ececec;
+    font-weight: bold;
+    border-radius: 10px;
+}
+.hero .container button{
+    align-items: flex-end;
+    border: none;
+    outline: none;
+    background: #385170;
+    color: #ececec;
+    font-weight: bold;
+    padding: 14px;
+    width: 100%;
+    font-size: 22px;
+    cursor: pointer;
+    transition: .4s;
+    border-radius: 20px;
+}
+.hero .container button:hover{
+    background-color: #9fd3c7;
+    color: #ececec;
+}
