@@ -23,3 +23,8 @@
 <br />
 ![image](https://user-images.githubusercontent.com/109859611/208140692-f69798ce-493a-4e45-a76b-0d79b13d5b25.png)
 <br />
+
+6-Cards
+<br />
+![image](https://user-images.githubusercontent.com/109859611/218560428-45ddf831-8d83-475c-92f7-a6e0e4813104.png)
+<br />
