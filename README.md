@@ -28,3 +28,10 @@
 <br />
 ![image](https://user-images.githubusercontent.com/109859611/218560428-45ddf831-8d83-475c-92f7-a6e0e4813104.png)
 <br />
+
+7-Dates Reminder
+<br />
+![image](https://user-images.githubusercontent.com/109859611/218697830-482fcf22-8920-4cad-b1e8-4c565fca7a48.png)
+<br />
+
+
