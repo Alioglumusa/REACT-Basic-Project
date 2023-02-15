@@ -4,7 +4,7 @@
 ![image](https://user-images.githubusercontent.com/109859611/206564160-85c3a094-b6a1-49e2-a433-465624a9a6bc.png)
 <br />
 
-2-Todo List App
+2-Todo-List-App
 <br />
 ![image](https://user-images.githubusercontent.com/109859611/206780790-14925250-af85-45dd-9edc-4f2431e79301.png)
 <br />
@@ -19,7 +19,7 @@
 ![image](https://user-images.githubusercontent.com/109859611/207711160-a7844ad5-f8ad-4378-b36f-ddd16de8ac33.png)
 <br />
 
-5-Random-quote-generator
+5-Random-Quote-Generator
 <br />
 ![image](https://user-images.githubusercontent.com/109859611/208140692-f69798ce-493a-4e45-a76b-0d79b13d5b25.png)
 <br />
@@ -29,9 +29,16 @@
 ![image](https://user-images.githubusercontent.com/109859611/218560428-45ddf831-8d83-475c-92f7-a6e0e4813104.png)
 <br />
 
-7-Dates Reminder
+7-Dates-Reminder
 <br />
 ![image](https://user-images.githubusercontent.com/109859611/218697830-482fcf22-8920-4cad-b1e8-4c565fca7a48.png)
 <br />
+
+8-Search-Filter
+<br />
+![image](https://user-images.githubusercontent.com/109859611/219092770-d21bb97d-f668-4ce6-8679-7f427a2760ad.png)
+<br />
+
+
 
 
