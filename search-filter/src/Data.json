@@ -1,0 +1,50 @@
+[
+    {
+        "id":1,
+        "image":"https://i.pinimg.com/236x/87/9a/b1/879ab1302c31cf1892c4cde5cd5493b1.jpg",
+        "title":"Daniel Radcliffe",
+        "Description":"Harry Potter"
+    },
+    {
+        "id":2,
+        "image":"https://i.pinimg.com/564x/f0/0a/ab/f00aabbf07aa5554155f1e07ee62214d.jpg",
+        "title":"Rupert Grint",
+        "Description":"Ron Weasley"
+    },
+    {
+        "id":3,
+        "image":"https://i.pinimg.com/564x/ea/92/10/ea9210204071b4a7f44dbcd9cd24ef93.jpg",
+        "title":"Emma Watson",
+        "Description":"Hermione Granger"
+    },
+    {
+        "id":4,
+        "image":"https://i.pinimg.com/564x/29/d7/38/29d738cc962d83bd342b083899e56a7d.jpg",
+        "title":"Robbie Coltrane",
+        "Description":"Rubeus Hagrid"
+    },
+    {
+        "id":5,
+        "image":"https://i.pinimg.com/736x/4c/1c/f8/4c1cf8373d9301c416b4b263774193a9.jpg",
+        "title":"Richard Harris",
+        "Description":"Headmaster Albus Dumbledore"
+    },
+    {
+        "id":6,
+        "image":"https://i.pinimg.com/564x/96/8d/a3/968da3567f7e5d47deaad196ce7256a1.jpg",
+        "title":"Maggie Smith",
+        "Description":"Professor Minerva McGonagall"
+    },
+    {
+        "id":7,
+        "image":"https://i.pinimg.com/564x/c3/df/07/c3df079d62347ea3f943707ad19bc31d.jpg",
+        "title":"Alan Rickman",
+        "Description":"Professor Severus Snape"
+    },
+    {
+        "id":8,
+        "image":"https://i.pinimg.com/236x/65/cd/5f/65cd5f4d02e3958d09af66192fb9d106.jpg",
+        "title":"Ian Hart",
+        "Description":"Professor Quirrell"
+    }
+]
